@@ -1,7 +1,7 @@
 # ML Program to reduce bias in C++ random number generation
 A simple program to use basic Machine Learning techniques to try and make random numbers generated in C++ less biased.
 
--uses the in-built "rand()" function
+-fixes the in-built "rand()" function
 
 -finds a weighting to apply to randomly generated numbers that reduces bias from ~0.93% to below ~0.002%
 
